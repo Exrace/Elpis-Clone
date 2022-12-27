@@ -1,17 +1,4 @@
-__*********************************************************************************************__
-
-__*********************************************************************************************__
-
-**Elpis is no longer developed! Issues are now closed and pull requests are no longer accepted.**
-
-**The source is GPL licensed, so feel free to fork and make whatever changes you would like.**
-
-**Sorry, I just don't have time for this project any longer.**
-
-__*********************************************************************************************__
-
-__*********************************************************************************************__
-
+## Elpis
 
 Elpis is native Windows client for the Pandora Radio music service, implemented in C# and WPF.  
 
